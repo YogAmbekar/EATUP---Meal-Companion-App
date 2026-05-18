@@ -6,11 +6,17 @@
 
 The project includes:
 
-* **UI/UX Design & Prototyping**
-* **User Flow & Journey Mapping**
-* **Feature Prioritization & Requirement Analysis**
-* **Market Problem Identification**
-* **Success Metric Definition**
+* UI/UX Design & Prototyping
+* User Flow & Journey Mapping
+* Feature Prioritization & Requirement Analysis
+* Market Problem Identification
+* Success Metric Definition
+
+---
+
+## Figma Design Link
+
+🔗 [View Complete Figma Project](https://drive.google.com/drive/folders/1inOh8s7vVFMFNqxnP7flx83dxRok1Dyd?usp=drive_link)
 
 ---
 
@@ -48,35 +54,38 @@ The project is built upon user persona research and behavioral data within IT pa
 
 ### 2. Solution Architecting
 
-* Defined a matching algorithm based on three pillars: **Real-time Location**, **Synchronized Timing**, and **Dietary Compatibility**.
+* Defined a matching algorithm based on three pillars:
+  * Real-time Location
+  * Synchronized Timing
+  * Dietary Compatibility
 
 ### 3. User Flow Design
 
 * Mapped the seamless journey from app installation to post-meal feedback.
-* Developed flows for both 1-to-1 matching and "Group Joins" (e.g., specific food interest groups).
+* Developed flows for both 1-to-1 matching and group joins based on food interests.
 
 ### 4. UI/UX Prototyping
 
-* Created high-fidelity screens for:
-* **Smart Matching Interface:** Real-time discovery of nearby colleagues.
-* **Preference Filters:** Easy selection of meal types and timings.
-* **Secure Chat:** In-app communication to finalize meet-up spots.
-* **Notifications:** Invitations for 1-to-1 or group meals.
+Created high-fidelity screens for:
 
-
+* Smart Matching Interface
+* Preference Filters
+* Secure Chat
+* Notifications & Invitations
 
 ### 5. Feature Prioritization
 
-* Integrated safety features such as professional profile verification and a feedback/rating system to maintain community quality.
+* Added safety features such as professional profile verification and feedback/rating systems.
 
 ---
 
 ## Key Features & Results
 
-* **Location-Based Discovery:** Uses real-time data to find companions within the same IT park or office building.
-* **Schedule Sync:** Eliminates the "mismatched lunch break" problem by filtering users available at the same time.
-* **Interest-Based Groups:** Created "Foodie Circles" (e.g., "Pizza Lovers") to encourage team-like bonding.
-* **Increased Social Connectivity:** Designed to improve employee mental well-being and networking frequency.
+* **Location-Based Discovery**
+* **Schedule Synchronization**
+* **Interest-Based Foodie Circles**
+* **Professional Networking Enhancement**
+* **Improved Employee Social Connectivity**
 
 ---
 
@@ -88,8 +97,21 @@ The project is built upon user persona research and behavioral data within IT pa
 ├── prototypes/          # High-fidelity UI screens (Figma links/images)
 ├── presentations/       # Gamma-generated slide deck
 └── README.md            # Project overview
-
 ```
 
 ---
 
+## Future Scope
+
+* AI-based meal recommendations
+* Team lunch scheduling
+* Corporate cafeteria integration
+* Employee wellness analytics
+
+---
+
+## Author
+
+**Yog Ambekar**  
+Computer Science Engineering Student  
+Dr. D Y Patil Institute of Engineering, Management & Research, Akurdi, Pune
